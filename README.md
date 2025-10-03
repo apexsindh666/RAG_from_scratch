@@ -19,12 +19,20 @@ Web-based interface powered by Gradio.
 
 📦 Installation
 Clone the repository:
-git clone https://github.com/yourusername/document-qna.git
+git clone https://github.com/apexsindh666/RAG_from_scratch.git
+
 cd document-qna
+
+
+
 Install dependencies:
+
 pip install -r requirements.txt
+
 Set your OpenAI API key (optional, for LLM responses):
+
 import os
+
 os.environ["OPENAI_API_KEY"] = "your_openai_api_key_here"
 
 
