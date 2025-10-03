@@ -73,12 +73,19 @@ Answer: 🥇 Winner (1st Place) – Hackathon at IIT Mandi
 
 
 🛠 Tech Stack
+
 Python 3.x
+
 Gradio — Web interface
+
 PyMuPDF / fitz — PDF parsing
+
 Transformers — Tokenizer & model
+
 NumPy — Cosine similarity & embeddings
+
 LangChain (optional) — LLM for precise QA
+
 OpenAI GPT-3.5-turbo (optional)
 
 
