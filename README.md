@@ -84,12 +84,20 @@ OpenAI GPT-3.5-turbo (optional)
 
 
 📁 Folder Structure
+
+
 .
+
 ├── documents/          # Uploaded PDF/TXT files
+
 ├── database/           # JSON data store for chunks & embeddings
+
 ├── app.py              # Main Gradio + processing script
+
 ├── requirements.txt    # Python dependencies
+
 └── README.md           # Project documentation
+
 
 
 ⚠️ Notes
