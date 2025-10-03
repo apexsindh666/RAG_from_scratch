@@ -88,15 +88,15 @@ OpenAI GPT-3.5-turbo (optional)
 
 .
 
-├── documents/          # Uploaded PDF/TXT files
+├── documents/                     # Uploaded PDF/TXT files
 
-├── database/           # JSON data store for chunks & embeddings
+├── database/                      # JSON data store for chunks & embeddings
 
-├── app.py              # Main Gradio + processing script
+├── app.py                          # Main Gradio + processing script
 
-├── requirements.txt    # Python dependencies
+├── requirements.txt                # Python dependencies
 
-└── README.md           # Project documentation
+└── README.md                       # Project documentation
 
 
 
