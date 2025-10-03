@@ -45,6 +45,9 @@ Ask your questions in the input box.
 Receive:
 🔎 Retrieved Text: Relevant text snippets.
 🎯 Precise Answer (optional, if OpenAI API key is provided).
+
+
+
 ⚙ How It Works
 Document Processing
 PDFs are converted to text.
@@ -55,10 +58,16 @@ Cosine similarity is used to retrieve top relevant chunks.
 LLM QA (Optional)
 Top chunks are passed to a lightweight OpenAI GPT model for precise answers.
 Example: extract “resume owner’s name” instead of returning full paragraphs.
+
+
+
 💡 Example
 Question: What is the resume owner’s name?
+
 Answer: SHANMUKHA NARAYANA S
+
 Question: Where did they win first place?
+
 Answer: 🥇 Winner (1st Place) – Hackathon at IIT Mandi
 
 
